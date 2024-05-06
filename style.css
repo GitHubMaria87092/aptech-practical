@@ -1,0 +1,37 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-nav .nav-item .nav-link
+{
+    color: #ed8309;
+    font-weight: bold;
+}
+.navbar-nav .nav-item .nav-link:hover
+{
+    color: #a15b0b;
+    border-bottom: 1px solid #ed8309;
+}
+nav
+{
+    border-bottom: 2px solid #ed8309;
+}
+.img
+{
+    border-radius: 10px;
+}
+.img:hover
+{
+    cursor: pointer;
+    transform: scale(1.18);
+}
+input
+{
+    border: 5px solid black;
+}
+footer
+{
+    border-top: 2px solid #ed8309;
+}
